@@ -1,5 +1,38 @@
-# Motion controlled game system using computer vision
+# Motion-Controlled Game System Using Computer Vision
 
-We have created a system that automates our gestures and can be used as a controller for games
-this controller is used for car games but if changes are made then it can be used as multi purpose controller
-all the requred files are provided
+## Overview
+
+This project features a **Real-Time Gesture-Based Control System** designed to automate gestures for use as a game controller. Originally tailored for racing games, this system has the flexibility to be adapted for various types of games and applications. By leveraging advanced computer vision techniques, it provides an intuitive and immersive gaming experience.
+
+## Key Features
+
+- **Real-Time Gesture Tracking:** Utilizes OpenCV and MediaPipe for precise hand tracking and gesture recognition.
+- **Customizable Controls:** Originally developed for racing games, but adaptable to other game genres with minor modifications.
+- **Comprehensive System:** Includes all required files for setup and operation.
+
+## Technologies Used
+
+- **OpenCV:** For computer vision and image processing.
+- **MediaPipe:** For hand tracking and gesture recognition.
+- **C-types:** For interfacing with C libraries.
+- **Time:** For managing time-based operations and controls.
+
+## Getting Started
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/ppaarxx/Motion-controlled-game-system-using-computer-vision.git
+
+2. **Install Dependencies:**
+   pip install opencv-python mediapipe
+
+3. **Run the System:**
+   Follow the instructions in the setup file or documentation provided within the repository to start the gesture-based control system.
+
+
+
+   
+
+
+
+
